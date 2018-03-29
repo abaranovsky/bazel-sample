@@ -13,5 +13,3 @@ before_install:
 
 script:
 - bazel build //:ProjectRunner
-- ls -l
-- java -jar ./bazel-bin/src/main/java/com/example/cmdline/runner_deploy.jar

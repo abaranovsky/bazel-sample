@@ -1,7 +1,5 @@
 addons:
   apt:
-    sources:
-      - ubuntu-toolchain-r-test
     packages:
       - wget
       - pkg-config
